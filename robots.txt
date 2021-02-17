@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /images/
+Disallow: /index.html
+Disallow: /novinky/
+Disallow: /cennik/
+Allow: *.js
+Allow: /js/*.js
+Allow: /cs/*.css
+Allow: /*.css
